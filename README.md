@@ -38,6 +38,7 @@ Feedback is provided in terms of heuristic function
 <h3>Step-4:</h3>
 <p> Lopp Step -2 and Step-3  until we achieve the score to be Zero to achieve Global Minima.</p>
 <h2>Program</h2>
+
 ```
 import random
 import string
@@ -76,20 +77,25 @@ SimpleHillClimbing()
 <h2>Sample Input and Output</h2>
 <h2>Sample String:</h2> Artificial Intelligence
 <h2>Output:</h2>
-Score: 643  Solution :  8RzF:oG ]%;CPORRMe!zGvk<br>
-Score: 609  Solution :  8RzF:oG ]%;CPqRRMe!zGvk<br>
-Score: 604  Solution :  8RzF:oG ]%;CPqRRMe!zGqk<br>
-Score: 594  Solution :  8RzF:oG ]%;CPqRRWe!zGqk<br>
-Score: 551  Solution :  8RzF:oGK]%;CPqRRWe!zGqk<br>
-Score: 551  Solution :  8RzF:oGK]%;CPqRRWe!zGqk<br>
-Score: 551  Solution :  8RzF:oGK]%;CPqRRWe!zGqk<br>
-Score: 551  Solution :  8RzF:oGK]%;CPqRRWe!zGqk<br>
-Score: 551  Solution :  8RzF:oGK]%;CPqRRWe!zGqk<br>
-....................................................<br>
-..................................................<br>
-................................................<br>
-Score: 1  Solution :  Artificial Intelligencf<br>
-Score: 1  Solution :  Artificial Intelligencf<br>
-Score: 1  Solution :  Artificial Intelligencf<br>
-Score: 1  Solution :  Artificial Intelligencf<br>
-Score: 0  Solution :  Artificial Intelligence<br>
+
+```
+Score: 643 Solution : 8RzF:oG ]%;CPORRMe!zGvk
+Score: 609 Solution : 8RzF:oG ]%;CPqRRMe!zGvk
+Score: 604 Solution : 8RzF:oG ]%;CPqRRMe!zGqk
+Score: 594 Solution : 8RzF:oG ]%;CPqRRWe!zGqk
+Score: 551 Solution : 8RzF:oGK]%;CPqRRWe!zGqk
+Score: 551 Solution : 8RzF:oGK]%;CPqRRWe!zGqk
+Score: 551 Solution : 8RzF:oGK]%;CPqRRWe!zGqk
+Score: 551 Solution : 8RzF:oGK]%;CPqRRWe!zGqk
+Score: 551 Solution : 8RzF:oGK]%;CPqRRWe!zGqk
+....................................................
+..................................................
+................................................
+Score: 1 Solution : Artificial Intelligencf
+Score: 1 Solution : Artificial Intelligencf
+Score: 1 Solution : Artificial Intelligencf
+Score: 1 Solution : Artificial Intelligencf
+Score: 0 Solution : Artificial Intelligence
+
+```
+
